@@ -1,0 +1,154 @@
+[
+  {
+    "id": 0,
+    "title": "Бриллиант (12 карат)",
+    "author": "Дэн Браун",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRcXPc3WVI8H8TOIv4NugmfL2lcKfVFDAM3dQ&usqp=CAU",
+    "price": 59000,
+    "rating": 3
+  },
+  {
+    "id": 1,
+    "title": "Колье (Тайна океана)",
+    "author": "Джордж Оруэлл",
+    "image": "https://www.bon-cadeau.ru/mdata/topimg/size3/1348.jpg",
+    "price": 415,
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "title": "Анненберг",
+    "author": "Донато Карризи",
+    "image": "https://voka.me/wp-content/uploads/2017/11/11-2.jpg",
+    "price": 400000,
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "title": "корона (Барокко)",
+    "author": "Королева Брокко",
+    "image": "https://www.dhresource.com/0x0/f2/albu/g10/M01/0A/57/rBVaVl1mUyuAW3MmAAOzuGyHw7Q743.jpg",
+    "price": 741,
+    "rating": 3
+  },
+  {
+    "id": 4,
+    "title": "Маленький принц",
+    "author": "Татьяна Устинова",
+    "image": "https://i.pinimg.com/originals/87/e8/17/87e817664ef78de155e6348563620020.jpg",
+    "price": 317,
+    "rating": 1
+  },
+  {
+    "id": 5,
+    "title": "Капля солнца",
+    "author": "Гузель Яхина",
+    "image": "https://cs12.pikabu.ru/post_img/2019/07/16/7/156327434319648954.jpg",
+    "price": 254,
+    "rating": 0
+  },
+  {
+    "id": 6,
+    "title": "Карлов Нуар",
+    "author": "Джулия Эндерс",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSPa7v39AGa6s9u_eXbcHxBEgtJanSPHSq2bw&usqp=CAU",
+    "price": 573,
+    "rating": 4
+  },
+  {
+    "id": 7,
+    "title": "Брилиант (Кохинор)",
+    "author": "Виктор Пелевин",
+    "image": "https://svadbagarderob.ru/wp-content/uploads/2018/10/Diadema-BT02100-1-441x588.jpg",
+    "price": 246,
+    "rating": 0
+  },
+  {
+    "id": 8,
+    "title": "Серца океана (Корртт)",
+    "author": "Стивен Кови",
+    "image": "https://avatars.mds.yandex.net/get-zen_doc/3413523/pub_5ea6cc76d1cbcf0a0cd08e97_5eac403d71ea41137e3a2bb9/scale_1200",
+    "price": 347,
+    "rating": 5
+  },
+  {
+    "id": 9,
+    "title": "Крисагонно",
+    "author": "Роберт Брындза",
+    "image": "https://avatars.mds.yandex.net/get-zen_doc/3473288/pub_5f084ab24eb46835c8fb1934_5f2059e7cb870d0ab3c36642/scale_1200",
+    "price": 882,
+    "rating": 2
+  },
+  {
+    "id": 10,
+    "title": "Алмаз Хоупа (Hope)",
+    "author": "Хэл Элрод",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ3_d4EQ7iW93FlZpapG_847Sh2YD7CPWW1hQ&usqp=CAU",
+    "price": 829,
+    "rating": 1
+  },
+  {
+    "id": 11,
+    "title": "Патиальское ожерелье",
+    "author": "Борис Акунин",
+    "image": "https://images.pexels.com/photos/5362404/pexels-photo-5362404.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "price": 389,
+    "rating": 2
+  },
+  {
+    "id": 12,
+    "title": "Голубой Оппенгеймер (Oppenheimer Blue)",
+    "author": "Анджей Сапковский",
+    "image": "https://jewellerymag.ru/wp-content/uploads/2019/11/109893764-hi058248221.jpg",
+    "price": 424,
+    "rating": 3
+  },
+  {
+    "id": 13,
+    "title": "Брошь Cartier 1912",
+    "author": "Айн Рэнд",
+    "image": "https://ae01.alicdn.com/kf/HTB1b6gCviCYBuNkSnaVq6AMsVXaL/2018.jpg_960x960.jpg",
+    "price": 157,
+    "rating": 2
+  },
+  {
+    "id": 14,
+    "title": "Восточный рассвет (The Oriental Sunrise)",
+    "author": "Александра Маринина",
+    "image": "https://svadbagarderob.ru/wp-content/uploads/2018/10/Dlinnye-sergi-s-kristallami-441x617.jpg",
+    "price": 664,
+    "rating": 0
+  },
+  {
+    "id": 15,
+    "title": "Овальный рубин «Юбилей»",
+    "author": "Гиллиан Флинн",
+    "image": "https://ae01.alicdn.com/kf/HTB1YW7zFruWBuNjSszgq6z8jVXao/queen.jpg",
+    "price": 476,
+    "rating": 4
+  },
+  {
+    "id": 17,
+    "title": "Бриллиант «Розовая звезда»",
+    "author": "Дмитрий Глуховский",
+    "image": "https://sc02.alicdn.com/kf/HTB1FTSGb4PI8KJjSspfq6ACFXXaF/231259563/HTB1FTSGb4PI8KJjSspfq6ACFXXaF.jpg",
+    "price": 837,
+    "rating": 4
+  },
+  {
+    "id": 18,
+    "title": "«Виттельсбах»",
+    "author": "Ю Несбё",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRxPnW9hGY_-WRIGDHcsg1V4S0BY_zAjbcCnQ&usqp=CAU",
+    "price": 796,
+    "rating": 5
+  },
+  {
+    "id": 19,
+    "title": "«Графф»",
+    "author": "Джонатан Хэнкок",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSRaL-ZGxvumdcXUgExaDUcg8HiLaO966tqng&usqp=CAU",
+    "price": 399,
+    "rating": 5
+  }
+]

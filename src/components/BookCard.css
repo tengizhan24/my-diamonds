@@ -1,0 +1,5 @@
+.card-image:hover{
+    width: 350px;
+    height: 350px;
+    box-shadow: black;
+}
